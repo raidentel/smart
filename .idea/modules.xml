@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Smart - Hilmi.iml" filepath="$PROJECT_DIR$/Smart - Hilmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart_-_Hilmi.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart_-_Hilmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart - HilmiApp/Smart_-_HilmiApp.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart - HilmiApp/Smart_-_HilmiApp.iml" group="Smart - HilmiApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart - HilmiApp/Smart_-_HilmiApp_android.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart - HilmiApp/Smart_-_HilmiApp_android.iml" group="Smart - HilmiApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart - HilmiApp/Smart_-_HilmiApp_desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart - HilmiApp/Smart_-_HilmiApp_desktop.iml" group="Smart - HilmiApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart - HilmiApp/Smart_-_HilmiApp_embedded.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart - HilmiApp/Smart_-_HilmiApp_embedded.iml" group="Smart - HilmiApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart - HilmiApp/Smart_-_HilmiApp_ios.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart - HilmiApp/Smart_-_HilmiApp_ios.iml" group="Smart - HilmiApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart - HilmiApp/Smart_-_HilmiApp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart - HilmiApp/Smart_-_HilmiApp_main.iml" group="Smart - HilmiApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Smart - HilmiApp/Smart_-_HilmiApp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Smart - HilmiApp/Smart_-_HilmiApp_test.iml" group="Smart - HilmiApp" />
+    </modules>
+  </component>
+</project>
